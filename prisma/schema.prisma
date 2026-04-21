@@ -1,0 +1,16 @@
+// prisma/schema.prisma
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql" // یا "sqlite", "mysql" بسته به دیتابیس شما
+  url      = env("DATABASE_URL")
+}
+
+// مدل‌های خود را اینجا اضافه کنید
+model User {
+  id    Int    @id @default(autoincrement())
+  email String @unique
+  name  String
+}
