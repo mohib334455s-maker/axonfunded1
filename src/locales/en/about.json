@@ -1,0 +1,31 @@
+{
+  "heroBadge": "Our Story",
+  "heroLine1": "Built by traders,",
+  "heroLine2": "for traders.",
+  "heroLead": "We started Axon Funded because we were frustrated with prop firms that made it almost impossible to succeed. Hidden rules, slow payouts, unfair practices. We built what we wished existed.",
+  "stats": [],
+  "statsPlaceholder": "Verified company metrics will be published here when available.",
+  "missionKicker": "Our Mission",
+  "missionTitle": "Democratizing access to trading capital",
+  "missionP1": "Every day, thousands of talented traders sit on the sidelines — not because they lack skill, but because they lack capital. We believe that shouldn't be a barrier.",
+  "missionP2": "We focus on a transparent two-phase evaluation and documented payout mechanics in the Trading Rules. We do not publish headline trader or payout totals on this marketing page.",
+  "missionP3": "Our two-phase evaluation process is designed to find traders who demonstrate consistent, disciplined risk management — not just lucky streaks. If you have the skills, we provide the framework described in your agreement.",
+  "valuesTitle": "What We Stand For",
+  "valuesSubtitle": "The values that guide every decision we make",
+  "values": [
+    { "title": "Full Transparency", "desc": "We publish our rules clearly, without hidden clauses. Every rule is written in plain language — no surprises, no fine print." },
+    { "title": "Trader-First", "desc": "Every decision we make starts with: 'How does this help traders succeed?' We build the tools we wish existed when we evaluated firms." },
+    { "title": "Global Accessibility", "desc": "Trading talent exists everywhere. Where permitted, we welcome international participants and document payout rails in your dashboard." },
+    { "title": "Real Relationships", "desc": "Support should be reachable and documented. We invest in help channels and clear SLAs instead of anonymous walls." },
+    { "title": "Merit-Based", "desc": "We don't care about your age, background, or credentials. If you can trade consistently and manage risk under the published rules, that is what counts." },
+    { "title": "Speed & Reliability", "desc": "We aim for fast account delivery and predictable processing windows — subject to compliance checks and market holidays." }
+  ],
+  "teamTitle": "The Team Behind Axon",
+  "teamSubtitle": "Profiles will appear when published",
+  "team": [],
+  "teamPlaceholder": "We do not list placeholder bios. When leadership profiles are published, they will appear in this section.",
+  "ctaTitle": "Ready to start?",
+  "ctaLead": "Read the Trading Rules and checkout terms, then begin the evaluation when you are ready.",
+  "ctaPrimary": "Start a Challenge",
+  "ctaSecondary": "Talk to the Team"
+}

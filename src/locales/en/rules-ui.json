@@ -1,0 +1,30 @@
+{
+  "badge": "Official trading rules",
+  "titleBefore": "Axon",
+  "titleGradient": "Rules & Policies",
+  "subtitle": "The text below is the official reference for evaluations and funded accounts. Support and AI assistants may help, but this page prevails if anything differs.",
+  "jumpTo": "Jump to",
+  "footnote": "Official reference — section 6 is not used in this document's numbering.",
+  "accordionOfficialBefore": "Full legal text is also on the public site:",
+  "accordionOfficialLink": "Open complete rules",
+  "quickLinks": {
+    "intro": "Introduction",
+    "trading-days": "Trading days",
+    "drawdown": "Drawdown",
+    "days-after-target": "After target",
+    "post-phase": "Post-challenge",
+    "violations": "Violations",
+    "weekend": "Weekend",
+    "news": "News",
+    "kyc": "KYC",
+    "refund": "Fee refund",
+    "payout": "Payouts",
+    "retake": "Retake",
+    "allocation": "Capital cap",
+    "slippage": "Slippage",
+    "password": "Passwords",
+    "copy": "Copy trading",
+    "ea": "EAs & bots",
+    "ib": "IB program"
+  }
+}

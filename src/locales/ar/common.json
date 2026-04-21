@@ -1,0 +1,86 @@
+{
+  "nav": {
+    "home": "الرئيسية",
+    "challenge": "التحدي",
+    "rules": "القواعد",
+    "blog": "المدونة",
+    "leaderboard": "المتصدرون",
+    "affiliate": "الشراكة",
+    "dashboard": "لوحة التحكم",
+    "startChallenge": "ابدأ التحدي",
+    "brandSlogan": "أول شركة دعم تداول بمدفوعات يومية"
+  },
+  "hero": {
+    "badge": "المرحلة 4 مفتوحة — قدم طلبك الآن",
+    "title": "أول شركة دعم تداول بمدفوعات يومية",
+    "amount": "",
+    "subtitle": "شركة تداول احترافية بالغة الشفافية. أثبت قدراتك، احصل على التمويل، واحتفظ بـ",
+    "profit": "80% من الأرباح",
+    "cta": {
+      "start": "ابدأ التحدي",
+      "rules": "عرض القواعد"
+    }
+  },
+  "stats": {
+    "traders": "المتداولون الممولون",
+    "payout": "إجمالي المدفوعات",
+    "success": "معدل النجاح"
+  },
+  "errors": {
+    "title": "حدث خطأ",
+    "description": "حدث خطأ غير متوقع. تم إبلاغ فريقنا.",
+    "tryAgain": "حاول مرة أخرى",
+    "goHome": "الصفحة الرئيسية",
+    "errorId": "معرف الخطأ"
+  },
+  "footer": {
+    "tagline": "تقييم تداول احترافي بضوابط مخاطر منضبطة. تُعرض الإحصاءات الموثّقة هنا عند توفرها.",
+    "brandLockup": "Axon Funded — أول شركة دعم تداول بمدفوعات يومية",
+    "rights": "جميع الحقوق محفوظة.",
+    "systems": "جميع الأنظمة تعمل",
+    "disclaimer": "التداول عالٍ المخاطر وقد لا يناسب الجميع. تعمل Axon Funded تقييمات ومسارات تمويل في بيئة محاكاة — دون استشارة مالية شخصية. قد تخسر الرسوم بالكامل.",
+    "riskDisclaimerFullLink": "إخلاء مسؤولية المخاطر الكامل",
+    "social": {
+      "email": "البريد للدعم",
+      "instagram": "إنستغرام"
+    },
+    "columns": [
+      {
+        "title": "المنصة",
+        "links": [
+          { "label": "خطط التحدي", "href": "/challenge" },
+          { "label": "قواعد التداول", "href": "/rules" },
+          { "label": "لوحة التحكم", "href": "/dashboard" }
+        ]
+      },
+      {
+        "title": "الشركة",
+        "links": [
+          { "label": "من نحن", "href": "/about" },
+          { "label": "المتصدرون", "href": "/leaderboard" },
+          { "label": "إثباتات الدفع", "href": "/payout-proofs" },
+          { "label": "خطة التوسع", "href": "/scaling" },
+          { "label": "برنامج الشراكة", "href": "/affiliate" },
+          { "label": "اتصل بنا", "href": "/contact" }
+        ]
+      },
+      {
+        "title": "الدعم",
+        "links": [
+          { "label": "مركز المساعدة", "href": "/contact" },
+          { "label": "تواصل مع الدعم", "href": "/contact" },
+          { "label": "راسلنا بالبريد", "href": "mailto:support@axonfunded.com" }
+        ]
+      },
+      {
+        "title": "قانوني",
+        "links": [
+          { "label": "شروط الخدمة", "href": "/legal/terms" },
+          { "label": "سياسة الخصوصية", "href": "/legal/privacy" },
+          { "label": "إخلاء مسؤولية المخاطر", "href": "/legal/risk-disclaimer" },
+          { "label": "سياسة الاسترداد", "href": "/legal/refund" }
+        ]
+      }
+    ]
+  }
+}

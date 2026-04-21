@@ -1,0 +1,86 @@
+{
+  "nav": {
+    "home": "خانه",
+    "challenge": "چالش",
+    "rules": "قوانین",
+    "blog": "بلاگ",
+    "leaderboard": "لیدربورد",
+    "affiliate": "همکاری",
+    "dashboard": "داشبورد",
+    "startChallenge": "شروع چالش",
+    "brandSlogan": "نخستین پراپ با تسویهٔ روزانه"
+  },
+  "hero": {
+    "badge": "فاز ۴ باز است — اکنون درخواست دهید",
+    "title": "نخستین پراپ با تسویهٔ روزانه",
+    "amount": "",
+    "subtitle": "شفاف‌ترین شرکت پراپ تریدینگ. مهارت خود را ثابت کنید، فاند شوید و",
+    "profit": "۸۰٪ از سود",
+    "cta": {
+      "start": "شروع چالش",
+      "rules": "مشاهده قوانین"
+    }
+  },
+  "stats": {
+    "traders": "تریدرهای فاند شده",
+    "payout": "مجموع پرداخت‌ها",
+    "success": "نرخ موفقیت"
+  },
+  "errors": {
+    "title": "مشکلی پیش آمد",
+    "description": "خطای غیرمنتظره رخ داد. تیم ما مطلع شده است.",
+    "tryAgain": "تلاش دوباره",
+    "goHome": "رفتن به خانه",
+    "errorId": "شناسه خطا"
+  },
+  "footer": {
+    "tagline": "ارزیابی ترید اختصاصی با کنترل ریسک منضبط. آمار تأییدشده در صورت انتشار، اینجا نمایش داده می‌شود.",
+    "brandLockup": "Axon Funded — نخستین پراپ با تسویهٔ روزانه",
+    "rights": "تمام حقوق محفوظ است.",
+    "systems": "همه سرویس‌ها فعال است",
+    "disclaimer": "معامله پرریسک است و برای همه مناسب نیست. Axon Funded ارزیابی و مسیر فاند را در محیط شبیه‌سازی اجرا می‌کند — مشاوره مالی شخصی ارائه نمی‌شود. ممکن است کل کارمزد را از دست بدهید.",
+    "riskDisclaimerFullLink": "سلب مسئولیت کامل ریسک",
+    "social": {
+      "email": "ایمیل پشتیبانی",
+      "instagram": "اینستاگرام"
+    },
+    "columns": [
+      {
+        "title": "پلتفرم",
+        "links": [
+          { "label": "پلن‌های چالش", "href": "/challenge" },
+          { "label": "قوانین معاملاتی", "href": "/rules" },
+          { "label": "داشبورد", "href": "/dashboard" }
+        ]
+      },
+      {
+        "title": "شرکت",
+        "links": [
+          { "label": "درباره ما", "href": "/about" },
+          { "label": "لیدربورد", "href": "/leaderboard" },
+          { "label": "رسیدهای پرداخت", "href": "/payout-proofs" },
+          { "label": "نقشه رشد", "href": "/scaling" },
+          { "label": "برنامه همکاری", "href": "/affiliate" },
+          { "label": "تماس با ما", "href": "/contact" }
+        ]
+      },
+      {
+        "title": "پشتیبانی",
+        "links": [
+          { "label": "مرکز راهنما", "href": "/contact" },
+          { "label": "تماس با پشتیبانی", "href": "/contact" },
+          { "label": "ایمیل مستقیم", "href": "mailto:support@axonfunded.com" }
+        ]
+      },
+      {
+        "title": "حقوقی",
+        "links": [
+          { "label": "شرایط استفاده", "href": "/legal/terms" },
+          { "label": "حریم خصوصی", "href": "/legal/privacy" },
+          { "label": "سلب مسئولیت ریسک", "href": "/legal/risk-disclaimer" },
+          { "label": "سیاست بازپرداخت", "href": "/legal/refund" }
+        ]
+      }
+    ]
+  }
+}
