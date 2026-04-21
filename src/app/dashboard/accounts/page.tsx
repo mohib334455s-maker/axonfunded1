@@ -1,2 +1,5 @@
-const AccountsPage = () > <div>Accounts Page</div>; 
-export default AccountsPage; 
+const AccountsPage = () => {
+  return <div>Accounts Page</div>;
+};
+
+export default AccountsPage;
