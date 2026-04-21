@@ -28,9 +28,9 @@ import SvgCandlestickChart from "@/components/dashboard/fintech/SvgCandlestickCh
 import DrawdownChart from "@/components/dashboard/DrawdownChart";
 import { useDashboardDict } from "@/hooks/useDashboardDict";
 import { useTheme } from "@/contexts/ThemeContext";
-import { AccountsTradingView } from "@/app/dashboard/accounts/page";
-import { AnalyticsTradingView } from "@/app/dashboard/analytics/page";
-import { MetricsTradingView } from "@/app/dashboard/metrics/page";
+import { AccountsTradingView } from "@/app/dashboard/accounts/AccountsTradingView";
+import { AnalyticsTradingView } from "@/app/dashboard/analytics/AnalyticsTradingView";
+import { MetricsTradingView } from "@/app/dashboard/metrics/MetricsTradingView";
 
 type DashboardSummary = {
   hasPaidChallenge: boolean;

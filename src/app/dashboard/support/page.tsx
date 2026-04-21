@@ -2,8 +2,8 @@
 
 import { motion } from "framer-motion";
 import { Headphones } from "lucide-react";
-import { TicketsSupportPanel } from "@/app/dashboard/tickets/page";
-import { FaqSupportPanel } from "@/app/dashboard/faq/page";
+import { TicketsSupportPanel } from "@/app/dashboard/tickets/TicketsSupportPanel";
+import { FaqSupportPanel } from "@/app/dashboard/faq/FaqSupportPanel";
 
 export default function SupportPage() {
   return (

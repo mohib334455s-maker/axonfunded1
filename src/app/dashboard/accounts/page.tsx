@@ -1,5 +1,5 @@
-const AccountsPage = () => {
-  return <div>Accounts Page</div>;
-};
+import { AccountsTradingView } from "./AccountsTradingView";
 
-export default AccountsPage;
+export default function AccountsPage() {
+  return <AccountsTradingView />;
+}
