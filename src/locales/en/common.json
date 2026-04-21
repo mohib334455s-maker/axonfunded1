@@ -1,0 +1,86 @@
+{
+  "nav": {
+    "home": "Home",
+    "challenge": "Challenge",
+    "rules": "Rules",
+    "blog": "Blog",
+    "leaderboard": "Leaderboard",
+    "affiliate": "Affiliate",
+    "dashboard": "Dashboard",
+    "startChallenge": "Start Challenge",
+    "brandSlogan": "The First Ever Daily payout prop"
+  },
+  "hero": {
+    "badge": "Now accepting applications — Phase 4 Open",
+    "title": "The First Ever Daily payout prop",
+    "amount": "",
+    "subtitle": "The most transparent prop trading firm. Prove your edge, get funded, keep",
+    "profit": "80% of the profits",
+    "cta": {
+      "start": "Start Challenge",
+      "rules": "View Rules"
+    }
+  },
+  "stats": {
+    "traders": "Funded Traders",
+    "payout": "Total Paid Out",
+    "success": "Success Rate"
+  },
+  "errors": {
+    "title": "Something went wrong",
+    "description": "An unexpected error occurred. Our team has been notified.",
+    "tryAgain": "Try again",
+    "goHome": "Go home",
+    "errorId": "Error ID"
+  },
+  "footer": {
+    "tagline": "Proprietary trading evaluation with disciplined risk controls. Verified statistics are published here when available.",
+    "brandLockup": "Axon Funded — The First Ever Daily payout prop",
+    "rights": "All rights reserved.",
+    "systems": "All systems operational",
+    "disclaimer": "Trading is high-risk and not suitable for everyone. Axon Funded operates simulated evaluation and funded-track accounts — not personalised financial advice. You may lose your entire fee.",
+    "riskDisclaimerFullLink": "Full risk disclaimer",
+    "social": {
+      "email": "Email support",
+      "instagram": "Instagram"
+    },
+    "columns": [
+      {
+        "title": "Platform",
+        "links": [
+          { "label": "Challenge plans", "href": "/challenge" },
+          { "label": "Trading rules", "href": "/rules" },
+          { "label": "Dashboard", "href": "/dashboard" }
+        ]
+      },
+      {
+        "title": "Company",
+        "links": [
+          { "label": "About us", "href": "/about" },
+          { "label": "Leaderboard", "href": "/leaderboard" },
+          { "label": "Payout proofs", "href": "/payout-proofs" },
+          { "label": "Scaling", "href": "/scaling" },
+          { "label": "Affiliate program", "href": "/affiliate" },
+          { "label": "Contact us", "href": "/contact" }
+        ]
+      },
+      {
+        "title": "Support",
+        "links": [
+          { "label": "Help center", "href": "/contact" },
+          { "label": "Contact support", "href": "/contact" },
+          { "label": "Email us", "href": "mailto:support@axonfunded.com" }
+        ]
+      },
+      {
+        "title": "Legal",
+        "links": [
+          { "label": "Terms of service", "href": "/legal/terms" },
+          { "label": "Privacy policy", "href": "/legal/privacy" },
+          { "label": "Risk disclaimer", "href": "/legal/risk-disclaimer" },
+          { "label": "Refund policy", "href": "/legal/refund" }
+        ]
+      }
+    ]
+  }
+}

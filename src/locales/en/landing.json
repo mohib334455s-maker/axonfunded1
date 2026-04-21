@@ -1,0 +1,166 @@
+{
+  "hero": {
+    "badge": "Applications open — evaluation cohort live",
+    "brandLine": "Axon Funded",
+    "slogan": "The First Ever Daily payout prop",
+    "subtitleBefore": "Join a transparent two-phase evaluation. Prove consistency, then",
+    "subtitleHighlight": "access institutional-grade capital",
+    "subtitleAfter": "— and retain 80% of simulated profits under programme rules.",
+    "ctaStart": "Start Challenge",
+    "ctaRules": "View Rules"
+  },
+  "trust": {
+    "statsPending": "Aggregate performance and community metrics will appear here once they are published and verified.",
+    "trustpilotPending": "Third-party review summaries are shown only when we publish a verified rating.",
+    "trustpilotPrefix": "Excellent",
+    "trustpilotMid": "· 850+ verified reviews on",
+    "trustpilotBrand": "Trustpilot",
+    "statTraders": "Funded Traders",
+    "statPayouts": "Total Payouts",
+    "statPass": "Evaluation pass rate",
+    "statPayoutTime": "Typical payout window",
+    "statTrust": "Satisfaction score",
+    "statDays": "Avg. days to first payout",
+    "badgeReg": "Regulated-style controls",
+    "badgeSsl": "TLS encryption",
+    "badgeWithdraw": "Fast settlement rails",
+    "badgeFees": "No hidden platform fees",
+    "badgeSupport": "Dedicated support"
+  },
+  "howItWorks": {
+    "title": "How it works",
+    "subtitle": "Three disciplined steps from evaluation to funded status.",
+    "s1Title": "Select programme & join evaluation",
+    "s1Desc": "Choose account size, complete checkout, and receive credentials the same day. Your fee funds the evaluation infrastructure — not leverage.",
+    "s2Title": "Meet phase objectives",
+    "s2Desc": "Complete Phase 1 (8%) and Phase 2 (5%) while respecting daily and maximum drawdown limits. Minimum five active trading days per phase.",
+    "s3Title": "Receive funded allocation",
+    "s3Desc": "Pass both phases to unlock a funded account. Request profit splits on schedule via bank, Wise, or approved digital assets."
+  },
+  "plans": {
+    "eyebrow": "Challenge programmes",
+    "title": "Choose your account size",
+    "subtitle": "One-time evaluation fee per programme. Scale up after consistent performance.",
+    "popular": "Most popular",
+    "feeLabel": "Evaluation fee",
+    "select": "Select programme"
+  },
+  "features": {
+    "title": "Why Choose",
+    "titleBrand": "Axon Funded?",
+    "subtitle": "Because we provide the ultimate trading environment with unmatched flexibility.",
+    "f1t": "Industry-First Daily Payouts",
+    "f1d": "Access your profits every single day—no more waiting weeks for your hard-earned money.",
+    "f2t": "Massive 12% Total Drawdown",
+    "f2d": "We offer one of the most generous drawdown limits in the market, giving you more room to breathe and succeed.",
+    "f3t": "Up to 90% Profit Split",
+    "f3d": "Keep the vast majority of your gains. Your success is our priority.",
+    "f4t": "Total Strategic Freedom",
+    "f4d": "Use Expert Advisors (EAs), trade during high-impact news, and hold positions over the weekend without restrictions.",
+    "f5t": "Scaling up to $1,000,000",
+    "f5d": "Show us your consistency, and we will scale your capital up to $1M.",
+    "f6t": "Fast-Track Refund + 20% Loyalty Discount",
+    "f6d": "Get your fee back with your first payout, and enjoy a 20% discount on any future challenge purchases.",
+    "f7t": "Post-Challenge Success Bonus",
+    "f7d": "Receive a special cash bonus upon successful completion of your evaluation (please review the terms and conditions for eligibility)."
+  },
+  "testimonials": {
+    "title": "Trader feedback",
+    "subtitle": "Verified testimonials will appear here when available.",
+    "emptyTitle": "No testimonials published yet",
+    "emptyBody": "We do not display sample quotes. When traders opt in to share feedback, it will show in this section.",
+    "profitLbl": "Recorded profit",
+    "winLbl": "Win rate",
+    "items": []
+  },
+  "faq": {
+    "title": "Frequently asked questions",
+    "subtitle": "The essentials — read the full legal pack before purchasing.",
+    "items": [
+      {
+        "q": "What am I purchasing when I join an evaluation?",
+        "a": "You are purchasing access to a simulated evaluation environment with defined profit and drawdown rules. Passing both phases may qualify you for a funded allocation subject to compliance and contract terms — not a deposit or investment product."
+      },
+      {
+        "q": "What is a realistic pass rate?",
+        "a": "Pass rates vary widely by market regime and trader skill. We do not publish a headline pass-rate figure here. Past performance of other traders does not predict your outcome. Trading carries risk of total loss of the evaluation fee."
+      },
+      {
+        "q": "How quickly are profit splits processed?",
+        "a": "Approved requests are typically settled within one business day on digital rails; bank transfers may require additional clearing time. Minimum thresholds and KYC apply before first disbursement."
+      },
+      {
+        "q": "Is there a time limit on phases?",
+        "a": "No. You must satisfy minimum active trading days per phase, but there is no calendar cap — we optimise for process quality over speed marketing."
+      },
+      {
+        "q": "What instruments and strategies are permitted?",
+        "a": "Most discretionary and systematic styles are allowed where they do not breach the published Trading Rules. News trading is allowed; copy trading and mentor mirroring are allowed under §16. Latency arbitrage, bug exploitation, and harmful algos are prohibited (§14). Always read /rules — it overrides marketing summaries."
+      }
+    ]
+  },
+  "planAPricing": {
+    "eyebrow": "Pricing",
+    "title": "OFFICIAL PROP TRADING SPECIFICATIONS - 7 TIER LUXURY MODEL",
+    "subtitle": "NEWS & EA TRADING PERMITTED ON ALL TIERS · MINIMUM TRADING DAYS APPLY SEPARATELY FOR EVALUATION AND FUNDED PHASES",
+    "footer": "AXON CAPITAL ENGINE ACTIVATED",
+    "popular": "Popular",
+    "planTagline": "Plan A · Challenge",
+    "oneTimeFee": "One-time challenge fee",
+    "buyCta": "Buy now",
+    "startPrefix": "Start —",
+    "note1": "News trading and EA usage are fully permitted across all tiers to maximize trader flexibility.",
+    "note2": "Minimum trading days are enforced separately for evaluation (challenge) and funded phases.",
+    "note3": "The $500K and $1M tiers are premium offerings — same specification grid, scaled capital.",
+    "table": {
+      "featureHeader": "Specification",
+      "accountSize": "Account Size",
+      "phase1": "Phase 1 Target",
+      "phase2": "Phase 2 Target",
+      "dailyDd": "Daily Drawdown",
+      "totalDd": "Total Drawdown",
+      "minDaysChallenge": "Min Trading Days (Challenge)",
+      "minDaysFunded": "Min Trading Days (Funded)",
+      "news": "News Trading",
+      "ea": "EA Trading (Robots)",
+      "profitSplit": "Profit Split",
+      "payoutType": "Payout Type",
+      "performanceReward20": "Performance Reward (20%)",
+      "refundable": "Refundable Fee",
+      "registrationFee": "Registration Fee",
+      "allowed": "Allowed",
+      "yes": "Yes"
+    },
+    "rows": {
+      "performanceRewardChallenge": "Performance Reward (20%)",
+      "phase1": "Phase 1 Target",
+      "phase2": "Phase 2 Target",
+      "maxDd": "Total Drawdown",
+      "dailyDd": "Daily Drawdown",
+      "news": "News Trading",
+      "ea": "EA Trading (Robots)",
+      "performanceReward": "Profit Split",
+      "minDaysChallenge": "Min Trading Days (Challenge)",
+      "minDaysFunded": "Min Trading Days (Funded)",
+      "payoutType": "Payout Type",
+      "refundable": "Refundable Fee",
+      "registrationFee": "Registration Fee",
+      "accountSize": "Account Size"
+    },
+    "cells": {
+      "phase1ProfitTarget": "8%",
+      "phase2ProfitTarget": "4%",
+      "performanceRewardPercent": "90%",
+      "minimumTradingDays": "5 Days",
+      "firstWithdrawal": "10 Days (funded)"
+    }
+  },
+  "cta": {
+    "line1": "Ready to join the evaluation?",
+    "line2": "Access institutional-grade capital.",
+    "body": "Choose the programme that fits your risk budget and read the Trading Rules before checkout.",
+    "primary": "View programmes",
+    "secondary": "Read rules",
+    "fine": "Plan A fees from $115 · Seven tiers to $1M · No subscription · Terms apply"
+  }
+}

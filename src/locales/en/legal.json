@@ -1,0 +1,195 @@
+{
+  "backHome": "Back to Home",
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last updated: April 21, 2026",
+    "intro": "This Privacy Policy explains how Axon Funded collects, uses, stores, and protects personal data. It is designed to align with our published Trading Rules (including Section 9 — KYC). We do not sell your personal information to third parties for marketing.",
+    "footerBefore": "Privacy questions?",
+    "footerLink": "Contact us",
+    "sections": [
+      {
+        "title": "1. Scope & relationship to Trading Rules",
+        "content": "This policy supplements the contractual relationship described in our Terms of Service and the operational requirements in the Trading Rules at /rules. Where KYC is described for funded traders, Section 9 of the Trading Rules is the operational specification; this page summarises data handling in plain language."
+      },
+      {
+        "title": "2. Information we collect",
+        "content": "Account and contact data: name, email, country, and similar fields you provide when registering or purchasing. Payment metadata: transaction references and amounts as processed by payment providers (we do not store full card numbers on our servers where card rails are used). Technical data: IP address, device and browser type, timestamps, and cookies necessary for security and session management. Trading and compliance records: activity logs required to enforce programme rules."
+      },
+      {
+        "title": "3. KYC & identity verification (aligned with Trading Rules §9)",
+        "content": "After passing evaluation phases, funded traders must complete identity verification in line with AML expectations. Accepted documents: a high-quality scan or photo of a valid national ID, passport, or driver licence. Selfie standards (as published in §9): hold your ID in your left hand at chest level; wear dark clothing against a light or plain background; the image must be clear, without glasses, and without digital filters; both shoulders and your entire face must be visible. Proof-of-address documents may be requested where required for disbursement or compliance. We use verification workflows and subprocessors bound by data-processing terms."
+      },
+      {
+        "title": "4. How we use your data",
+        "content": "We use personal data to: operate accounts and dashboards; process challenge fees and profit withdrawals; verify identity and prevent fraud; monitor rule compliance; communicate service and security notices; improve reliability and security of the platform; and meet legal and regulatory obligations."
+      },
+      {
+        "title": "5. Legal bases & retention",
+        "content": "Processing is based on contract performance, legitimate interests (security, fraud prevention, service improvement), and legal obligation where applicable. We retain data for as long as your relationship is active and for additional periods required by law (including AML record-keeping). Exact retention varies by category; contact us for subject-access requests."
+      },
+      {
+        "title": "6. Sharing — no sale of personal data",
+        "content": "We do not sell your personal information. We share data only with: payment processors; identity-verification providers; hosting and infrastructure vendors under strict agreements; professional advisers where required; and authorities when compelled by lawful process. We do not allow subprocessors to use your KYC for unrelated marketing."
+      },
+      {
+        "title": "7. Security",
+        "content": "We apply industry-standard safeguards including encryption in transit (TLS), access controls, least-privilege administration, and monitoring. No online system is perfectly secure; you must protect your credentials and report suspected compromise immediately."
+      },
+      {
+        "title": "8. International transfers",
+        "content": "Your information may be processed in countries other than your residence. Where required, we implement appropriate safeguards such as standard contractual clauses or equivalent mechanisms."
+      },
+      {
+        "title": "9. Your rights",
+        "content": "Depending on your jurisdiction, you may have rights to access, rectify, delete, restrict, or port certain data, and to object to some processing. Regulatory retention may limit deletion. Contact privacy@axonfunded.com for requests."
+      },
+      {
+        "title": "10. Children",
+        "content": "Services are not directed to individuals under 18. We do not knowingly collect data from minors."
+      },
+      {
+        "title": "11. Changes",
+        "content": "We may update this policy. Material changes will be posted on this page with an updated date."
+      },
+      {
+        "title": "12. Contact",
+        "content": "Privacy inquiries: privacy@axonfunded.com. General support: support@axonfunded.com."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "lastUpdated": "Last updated: April 21, 2026",
+    "introBefore": "These Terms of Service (\"Terms\") govern access to Axon Funded websites, dashboards, and programmes. The ",
+    "introLinkLabel": "Trading Rules",
+    "introAfter": " at /rules are incorporated by reference for all trading mechanics. If these Terms and the Trading Rules conflict on trading mechanics, the Trading Rules control. For policies on data, see the Privacy Policy; for risk disclosures, see the Risk Disclaimer.",
+    "footerBefore": "Legal questions?",
+    "footerLink": "Contact us",
+    "sections": [
+      {
+        "title": "1. Final authority (written rules prevail)",
+        "content": "The authoritative contract consists of: (a) these Terms; (b) the Trading Rules at /rules; (c) checkout and plan descriptions that expressly form part of your order. Written materials on this website prevail over informal guidance from Live Support, sales chat, social channels, or AI assistants if there is any discrepancy. Support and AI tools are provided for convenience only."
+      },
+      {
+        "title": "2. Eligibility & account",
+        "content": "You must be at least 18 years old. You warrant that registration information is accurate. You are responsible for safeguarding credentials. One person must not operate multiple trader profiles to circumvent limits unless expressly permitted in writing."
+      },
+      {
+        "title": "3. Nature of the service (simulated / evaluation)",
+        "content": "Axon Funded offers proprietary trading evaluations and simulated funded programmes. Trading occurs in a simulated environment; you are not depositing funds for live brokerage margin in the retail sense described in mainstream securities law. Axon Funded does not provide personalised investment, tax, or legal advice."
+      },
+      {
+        "title": "4. Inactivity (30 consecutive days)",
+        "content": "As set out in the Trading Rules, evaluation accounts with no qualifying activity for 30 consecutive days may be forfeited and permanently closed. At least one qualifying trade must fall within each rolling 30-day window where that rule applies. Funded accounts may be subject to separate inactivity or compliance policies as described in the Trading Rules."
+      },
+      {
+        "title": "5. Drawdown parameters (summary — see /rules §2)",
+        "content": "Daily drawdown: 5% of the account balance at the start of each broker trading day (00:00 broker server time); neither balance nor equity may breach the published floor. Maximum drawdown: 12% static from the initial balance (non-trailing). Breaches are enforced in real time as described in the Trading Rules."
+      },
+      {
+        "title": "6. Payouts (summary — see /rules §11)",
+        "content": "First profit withdrawal is available only after the published minimum funded active trading days. After the first successful withdrawal, the programme may transition to an on-demand style schedule as described in the Trading Rules. Every payout request must be submitted through the Client Dashboard with no open positions and without new trades until processing completes; otherwise the request may be cancelled."
+      },
+      {
+        "title": "7. Fees, refunds, and chargebacks",
+        "content": "Challenge fees, the 100% fee reimbursement path tied to the first funded profit withdrawal after eligibility, and the 14-day no-trade evaluation cancellation window are described in the Refund Policy and Trading Rules §10. Disputes must follow support procedures before chargebacks; abusive chargebacks may result in account closure."
+      },
+      {
+        "title": "8. Prohibited conduct",
+        "content": "Latency arbitrage, exploitation of platform defects, credential misuse, fraud, market manipulation, or other harmful conduct described in the Trading Rules is prohibited. We may suspend or terminate accounts, withhold simulated profits where a funded breach occurred, and cooperate with law enforcement."
+      },
+      {
+        "title": "9. Intellectual property",
+        "content": "All trademarks, logos, copy, software, and design elements remain the property of Axon Funded or licensors. No licence is granted except the limited right to use the services in accordance with these Terms."
+      },
+      {
+        "title": "10. Disclaimers & limitation of liability",
+        "content": "Services are provided \"as is\". To the maximum extent permitted by law, Axon Funded disclaims implied warranties and excludes indirect or consequential damages. Nothing in these Terms excludes liability that cannot legally be excluded."
+      },
+      {
+        "title": "11. Changes",
+        "content": "We may update these Terms or the Trading Rules. Material updates will be posted with reasonable advance notice where practicable. Continued use after the effective date constitutes acceptance."
+      },
+      {
+        "title": "12. Governing law & disputes",
+        "content": "Governing law and dispute forums are as stated in your jurisdiction-specific agreement or, if none is presented, the provisions most recently published with these Terms. Contact legal@axonfunded.com for contractual questions."
+      }
+    ]
+  },
+  "risk": {
+    "title": "Risk Disclaimer",
+    "subtitle": "High-risk activity — simulated accounts — no advice",
+    "importantLabel": "Important:",
+    "importantBody": "Retail trading and leveraged products can result in total loss of capital. Axon Funded programmes operate in a simulated environment and do not constitute an offer of regulated investment advice.",
+    "ack": "By using Axon Funded you confirm that you have read this Risk Disclaimer and accept that trading decisions are your sole responsibility.",
+    "linkTerms": "Terms of Service",
+    "linkPrivacy": "Privacy Policy",
+    "linkRefund": "Refund Policy",
+    "sections": [
+      {
+        "title": "High risk of loss",
+        "content": "Foreign exchange, CFDs, crypto derivatives, and other leveraged instruments involve extreme volatility. A high percentage of retail participants lose money. Only allocate capital you can afford to lose entirely."
+      },
+      {
+        "title": "Simulated / demo environment",
+        "content": "Evaluation and funded-track accounts operate on simulated infrastructure. Fills, spreads, latency, liquidity, and slippage may differ from live markets. Past or simulated performance does not predict future results."
+      },
+      {
+        "title": "No financial or investment advice",
+        "content": "Axon Funded, its staff, and its software do not provide personalised investment, legal, or tax advice. Educational content is general in nature and must not be treated as a recommendation to buy or sell any instrument."
+      },
+      {
+        "title": "Leverage & technology risk",
+        "content": "Leverage magnifies gains and losses. Connectivity outages, hardware failures, or data-feed interruptions may impair execution. You remain responsible for monitoring positions."
+      },
+      {
+        "title": "Regulatory status",
+        "content": "Programmes are structured as proprietary evaluations and simulated payouts. You are responsible for taxes and local laws in your country of residence."
+      }
+    ]
+  },
+  "refund": {
+    "title": "Refund Policy",
+    "lastUpdated": "Last updated: April 21, 2026",
+    "calloutStrong": "Primary fee reimbursement (Trading Rules §10):",
+    "calloutA": "the challenge registration fee is reimbursed",
+    "calloutBold100": "100%",
+    "calloutB": "only as part of your",
+    "calloutBoldFirst": "first funded profit withdrawal",
+    "calloutC": " after you complete evaluations, receive a funded allocation, and complete at least 10 funded active trading days (see ",
+    "calloutLinkRules10": "Trading Rules §10",
+    "calloutD": "). This reimbursement is automatic with that first withdrawal, not a separate discretionary refund. For the authoritative wording, always read ",
+    "calloutLinkRules": "/rules",
+    "calloutE": " alongside this page.",
+    "eligibleTitle": "When a discretionary refund may apply",
+    "eligibleItems": [
+      "Duplicate charge for the same plan (billing error) — contact support with receipts.",
+      "Failure to activate credentials within the published remedy window owing to a verified platform fault.",
+      "Within 14 calendar days of purchase: if no trade has been opened on the purchased evaluation, you may request cancellation and refund via Live Support (also stated in Trading Rules §10).",
+      "Mandatory rights under the consumer laws of your jurisdiction where they cannot be waived."
+    ],
+    "notEligibleTitle": "Generally not refundable",
+    "notEligibleItems": [
+      "After any trade has been opened on the purchased evaluation, the registration fee is not refundable under discretionary policy except mandatory law (see §10).",
+      "Failures caused by exceeding 5% daily or 12% maximum static drawdown, or other Trading Rules breaches.",
+      "Voluntary withdrawal after trading has commenced, change of mind, or missed promotional windows.",
+      "Accounts terminated for fraud, chargeback abuse, or Terms violations."
+    ],
+    "extraSections": [
+      {
+        "title": "Relationship to first payout",
+        "content": "The 100% fee return is not paid as a standalone bank transfer before funding; it is bundled into the first eligible funded profit withdrawal after the 10 funded trading-day requirement. Currency rails and taxes follow your payout agreement."
+      },
+      {
+        "title": "How to request operational refunds",
+        "content": "Email support@axonfunded.com with order ID, purchase date, and evidence. Eligible duplicate or activation-error cases are reviewed within two business days where possible."
+      },
+      {
+        "title": "Chargebacks",
+        "content": "Initiating a payment dispute without contacting support may result in permanent closure. Provide documentation so we can resolve legitimate issues quickly."
+      }
+    ],
+    "supportPrompt": "Questions about refunds?",
+    "supportCta": "Contact Support"
+  }
+}
